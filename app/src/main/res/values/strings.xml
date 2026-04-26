@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HamburgueriaZ</string>
+    <string name="faca_seu_pedido">Faça seu pedido!</string>
+    <string name="acr_scimos">ACRÉSCIMOS:</string>
+    <string name="bacon">Bacon</string>
+    <string name="queijo">Queijo</string>
+</resources>
